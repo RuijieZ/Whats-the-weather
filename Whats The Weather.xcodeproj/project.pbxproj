@@ -13,6 +13,8 @@
 		27B5D3261B76882600C51399 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 27B5D3251B76882600C51399 /* Images.xcassets */; };
 		27B5D3291B76882600C51399 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 27B5D3271B76882600C51399 /* LaunchScreen.xib */; };
 		27B5D3351B76882600C51399 /* Whats_The_WeatherTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27B5D3341B76882600C51399 /* Whats_The_WeatherTests.swift */; };
+		27B5D33F1B76895F00C51399 /* nature-background-12007-12544-hd-wallpapers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 27B5D33E1B76895F00C51399 /* nature-background-12007-12544-hd-wallpapers.jpg */; };
+		27B5D3411B768A8600C51399 /* Phuket-E-Magazine_View-Point.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 27B5D3401B768A8600C51399 /* Phuket-E-Magazine_View-Point.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		27B5D32E1B76882600C51399 /* Whats The WeatherTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Whats The WeatherTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		27B5D3331B76882600C51399 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		27B5D3341B76882600C51399 /* Whats_The_WeatherTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Whats_The_WeatherTests.swift; sourceTree = "<group>"; };
+		27B5D33E1B76895F00C51399 /* nature-background-12007-12544-hd-wallpapers.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "nature-background-12007-12544-hd-wallpapers.jpg"; sourceTree = "<group>"; };
+		27B5D3401B768A8600C51399 /* Phuket-E-Magazine_View-Point.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Phuket-E-Magazine_View-Point.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +81,8 @@
 		27B5D31B1B76882600C51399 /* Whats The Weather */ = {
 			isa = PBXGroup;
 			children = (
+				27B5D33E1B76895F00C51399 /* nature-background-12007-12544-hd-wallpapers.jpg */,
+				27B5D3401B768A8600C51399 /* Phuket-E-Magazine_View-Point.jpg */,
 				27B5D31E1B76882600C51399 /* AppDelegate.swift */,
 				27B5D3201B76882600C51399 /* ViewController.swift */,
 				27B5D3221B76882600C51399 /* Main.storyboard */,
@@ -193,8 +199,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				27B5D3241B76882600C51399 /* Main.storyboard in Resources */,
+				27B5D3411B768A8600C51399 /* Phuket-E-Magazine_View-Point.jpg in Resources */,
 				27B5D3291B76882600C51399 /* LaunchScreen.xib in Resources */,
 				27B5D3261B76882600C51399 /* Images.xcassets in Resources */,
+				27B5D33F1B76895F00C51399 /* nature-background-12007-12544-hd-wallpapers.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
